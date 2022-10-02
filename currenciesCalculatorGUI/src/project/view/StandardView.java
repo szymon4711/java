@@ -1,8 +1,8 @@
-package pl.retsuz.view;
+package project.view;
 
-import pl.retsuz.collections.IDataCollection;
-import pl.retsuz.currency.ICurrency;
-import pl.retsuz.exchange.IExchange;
+import project.collections.IDataCollection;
+import project.currency.ICurrency;
+import project.exchange.IExchange;
 
 import java.util.Scanner;
 

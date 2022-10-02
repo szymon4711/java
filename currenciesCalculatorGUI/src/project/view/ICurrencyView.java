@@ -1,8 +1,8 @@
-package pl.retsuz.view;
+package project.view;
 
-import pl.retsuz.currency.ICurrency;
-import pl.retsuz.collections.IDataCollection;
-import pl.retsuz.exchange.IExchange;
+import project.currency.ICurrency;
+import project.collections.IDataCollection;
+import project.exchange.IExchange;
 
 public interface ICurrencyView {
     void setExchange(IExchange exchange); //Ustawia referencję do obiektu typu implementującego IExchange

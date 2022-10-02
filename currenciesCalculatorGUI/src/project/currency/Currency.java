@@ -1,4 +1,4 @@
-package pl.retsuz.currency;
+package project.currency;
 
 public class Currency implements ICurrency {
     String name;

@@ -1,6 +1,6 @@
-package pl.retsuz.exchange;
+package project.exchange;
 
-import pl.retsuz.currency.ICurrency;
+import project.currency.ICurrency;
 
 public class Exchange implements IExchange {
     @Override

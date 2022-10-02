@@ -1,4 +1,4 @@
-package pl.retsuz.data;
+package project.data;
 
 import java.io.IOException;
 import java.net.MalformedURLException;

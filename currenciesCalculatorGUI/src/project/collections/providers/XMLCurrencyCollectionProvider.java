@@ -1,4 +1,4 @@
-package pl.retsuz.collections.providers;
+package project.collections.providers;
 import java.io.IOException;
 import java.io.StringReader;
 import javax.xml.parsers.DocumentBuilder;
@@ -11,9 +11,9 @@ import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 import org.xml.sax.InputSource;
 import org.xml.sax.SAXException;
-import pl.retsuz.collections.IDataCollection;
-import pl.retsuz.currency.Currency;
-import pl.retsuz.currency.ICurrency;
+import project.collections.IDataCollection;
+import project.currency.Currency;
+import project.currency.ICurrency;
 
 public class XMLCurrencyCollectionProvider implements IStringCurrencyCollectionProvider{
     @Override

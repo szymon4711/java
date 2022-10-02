@@ -1,6 +1,6 @@
-package pl.retsuz.collections;
+package project.collections;
 
-import pl.retsuz.currency.ICurrency;
+import project.currency.ICurrency;
 
 import java.util.ArrayList;
 import java.util.List;

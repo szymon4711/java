@@ -1,15 +1,15 @@
-package pl.retsuz.view;
+package project.view;
 
 import org.xml.sax.SAXException;
-import pl.retsuz.collections.CurrencyDataCollection;
-import pl.retsuz.collections.IDataCollection;
-import pl.retsuz.collections.providers.IStringCurrencyCollectionProvider;
-import pl.retsuz.collections.providers.XMLCurrencyCollectionProvider;
-import pl.retsuz.currency.ICurrency;
-import pl.retsuz.data.IRemoteDataProvider;
-import pl.retsuz.data.RemoteDataProvider;
-import pl.retsuz.exchange.Exchange;
-import pl.retsuz.exchange.IExchange;
+import project.collections.CurrencyDataCollection;
+import project.collections.IDataCollection;
+import project.collections.providers.IStringCurrencyCollectionProvider;
+import project.collections.providers.XMLCurrencyCollectionProvider;
+import project.currency.ICurrency;
+import project.data.IRemoteDataProvider;
+import project.data.RemoteDataProvider;
+import project.exchange.Exchange;
+import project.exchange.IExchange;
 
 import javax.swing.*;
 import javax.xml.parsers.ParserConfigurationException;

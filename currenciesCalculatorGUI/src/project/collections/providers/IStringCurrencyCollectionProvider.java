@@ -1,7 +1,7 @@
-package pl.retsuz.collections.providers;
+package project.collections.providers;
 
 import org.xml.sax.SAXException;
-import pl.retsuz.collections.IDataCollection;
+import project.collections.IDataCollection;
 
 import javax.xml.parsers.ParserConfigurationException;
 import java.io.IOException;

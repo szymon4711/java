@@ -1,4 +1,4 @@
-package pl.retsuz.currency;
+package project.currency;
 
 public interface ICurrency {
     void setName(String name);
