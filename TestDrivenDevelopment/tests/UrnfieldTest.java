@@ -1,8 +1,7 @@
-import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.function.Executable;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.MethodSource;
-import pl.retsuz.conversions.urnfield.Urnfield;
+import project.conversions.urnfield.Urnfield;
 
 import java.util.Arrays;
 import java.util.Collection;

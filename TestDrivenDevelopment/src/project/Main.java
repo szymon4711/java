@@ -1,4 +1,4 @@
-package pl.retsuz;
+package project;
 
 public class Main {
 

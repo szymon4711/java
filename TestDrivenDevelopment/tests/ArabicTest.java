@@ -1,6 +1,6 @@
 import org.junit.jupiter.api.*;
 import org.junit.jupiter.api.function.Executable;
-import pl.retsuz.conversions.arabic.Arabic;
+import project.conversions.arabic.Arabic;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;

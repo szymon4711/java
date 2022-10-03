@@ -1,4 +1,4 @@
-package pl.retsuz.conversions;
+package project.conversions;
 
 public class Converter {
 

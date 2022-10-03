@@ -1,8 +1,8 @@
 import org.junit.jupiter.api.Test;
-import pl.retsuz.conversions.Converter;
-import pl.retsuz.conversions.arabic.Arabic;
-import pl.retsuz.conversions.roman.Roman;
-import pl.retsuz.conversions.urnfield.Urnfield;
+import project.conversions.Converter;
+import project.conversions.arabic.Arabic;
+import project.conversions.roman.Roman;
+import project.conversions.urnfield.Urnfield;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

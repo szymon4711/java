@@ -1,6 +1,6 @@
-package pl.retsuz.conversions.urnfield;
+package project.conversions.urnfield;
 
-import pl.retsuz.conversions.GenericNumeralSystem;
+import project.conversions.GenericNumeralSystem;
 
 public class Urnfield implements GenericNumeralSystem {
     @Override

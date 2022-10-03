@@ -1,6 +1,6 @@
-package pl.retsuz.conversions.roman;
+package project.conversions.roman;
 
-import pl.retsuz.conversions.GenericNumeralSystem;
+import project.conversions.GenericNumeralSystem;
 
 
 public class Roman implements GenericNumeralSystem {

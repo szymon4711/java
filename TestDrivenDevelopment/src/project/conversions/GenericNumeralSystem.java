@@ -1,4 +1,4 @@
-package pl.retsuz.conversions;
+package project.conversions;
 
 public interface GenericNumeralSystem {
     String fromArabic(int val);

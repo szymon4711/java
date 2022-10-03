@@ -1,6 +1,6 @@
-package pl.retsuz.conversions.arabic;
+package project.conversions.arabic;
 
-import pl.retsuz.conversions.GenericNumeralSystem;
+import project.conversions.GenericNumeralSystem;
 
 public class Arabic implements GenericNumeralSystem {
 
