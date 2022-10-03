@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0fd28cff-5b3a-4402-ae35-51780fb4fa77" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0fd28cff-5b3a-4402-ae35-51780fb4fa77" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,6 +90,11 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/szymo/IdeaProjects/studiaJava/currenciesCalculatorGUI&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\szymo\IdeaProjects\studiaJava\currenciesCalculatorGUI\src" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.project.view.ExchangeForm">
     <configuration name="ExchangeForm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pl.retsuz.view.ExchangeForm" />
@@ -162,6 +165,7 @@
       <workItem from="1654343234601" duration="1793000" />
       <workItem from="1664746087500" duration="282000" />
       <workItem from="1664746882455" duration="319000" />
+      <workItem from="1664748654974" duration="814000" />
     </task>
     <servers />
   </component>
